@@ -85,7 +85,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.cloud/forsattv/forsatpro1900.php
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTINF:-1 tvg-id="BeritaSatu.id" tvg-name="" tvg-logo="https://raw.githubusercontent.com/kontz6/lowgo/refs/heads/main/indonesia/beritasatu.png" group-title="INDONESIA TV",BERITASATU
+#EXTINF:-1 tvg-id="BeritaSatu.id" tvg-name="" tvg-logo="https://raw.githubusercontent.com/kontz6/lowgo/refs/heads/main/indonesia/beritasatu.png" group-title="INDONESIA",BERITASATU
 https://op-group1-swiftservehd-1.dens.tv/h/h209/02.m3u8
 
 
