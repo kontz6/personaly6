@@ -1203,7 +1203,7 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wybgz0orr8/
 
 ++++
 
-#EXTINF:-1 tvg-id="FOX SPORTS PREMIUM.mx" tvg-name="" tvg-logo="https://raw.githubusercontent.com/kontz6/lowgo/refs/heads/main/foxs/fs3.png" group-title="FOX SPORTS 🇲🇽", FOX SPORTS PREMIUM 🇲🇽
+#EXTINF:-1 tvg-id="FOX SPORTS PREMIUM.mx" tvg-name="" tvg-logo="https://raw.githubusercontent.com/kontz6/lowgo/refs/heads/main/foxs/fsp.png" group-title="FOX SPORTS 🇲🇽", FOX SPORTS PREMIUM 🇲🇽
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
