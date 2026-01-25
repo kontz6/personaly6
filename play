@@ -851,7 +851,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/3fe6d9eb97ed455c942eb8d3d1c2c2e8/in
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0a3aaee779e940db8ff24f9f3eb5c98a:440e1c1ce9ba337844409c8bcad5a268
-#EXTINF:-1 tvg-id="Horee.id" tvg-name="Horee" tvg-logo="https://mimipipi22.github.io/logo/kids/horee.jpg" group-title="KIDS",HOREE
+#EXTINF:-1 tvg-id="Horee.id" tvg-name="Horee" tvg-logo="https://raw.githubusercontent.com/kontz6/lowgo/refs/heads/main/kids/nick.png" group-title="KIDS",HOREE
 https://atemecdnbalancer-voe.sysln.id/live/eds/HoreeHD/mediampd/HoreeHD.mpd
 
 ========================================================================
@@ -1173,7 +1173,7 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/
 FOX SPORTS 🇲🇽
 ========================================================================
 
-#EXTINF:-1 tvg-id="FOX SPORTS.mx" tvg-name="" tvg-logo="https://i.ibb.co.com/4s30xbj/fxspmx.png" group-title="FOX SPORTS 🇲🇽", FOX SPORTS 🇲🇽
+#EXTINF:-1 tvg-id="FOX SPORTS.mx" tvg-name="" tvg-logo="https://raw.githubusercontent.com/kontz6/lowgo/refs/heads/main/foxs/fs.png" group-title="FOX SPORTS 🇲🇽", FOX SPORTS 🇲🇽
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1183,7 +1183,7 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oboxe53wyo/
 
 ++++
 
-#EXTINF:-1 tvg-id="FOX SPORTS 2.mx" tvg-name="" tvg-logo="https://i.ibb.co.com/fvP8vKX/fxsp2mx.png" group-title="FOX SPORTS 🇲🇽", FOX SPORTS 2 🇲🇽
+#EXTINF:-1 tvg-id="FOX SPORTS 2.mx" tvg-name="" tvg-logo="https://raw.githubusercontent.com/kontz6/lowgo/refs/heads/main/foxs/fs2.png" group-title="FOX SPORTS 🇲🇽", FOX SPORTS 2 🇲🇽
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1193,7 +1193,7 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tepjqej1ys/
 
 ++++
 
-#EXTINF:-1 tvg-id="FOX SPORTS 3.mx" tvg-name="" tvg-logo="https://i.ibb.co.com/7CNg8HK/fxsp3mx.png" group-title="FOX SPORTS 🇲🇽", FOX SPORTS 3 🇲🇽
+#EXTINF:-1 tvg-id="FOX SPORTS 3.mx" tvg-name="" tvg-logo="https://raw.githubusercontent.com/kontz6/lowgo/refs/heads/main/foxs/fs3.png" group-title="FOX SPORTS 🇲🇽", FOX SPORTS 3 🇲🇽
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1203,7 +1203,7 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wybgz0orr8/
 
 ++++
 
-#EXTINF:-1 tvg-id="FOX SPORTS PREMIUM.mx" tvg-name="" tvg-logo="https://i.ibb.co.com/0mB2ZHs/fxsppremmx.png" group-title="FOX SPORTS 🇲🇽", FOX SPORTS PREMIUM 🇲🇽
+#EXTINF:-1 tvg-id="FOX SPORTS PREMIUM.mx" tvg-name="" tvg-logo="https://raw.githubusercontent.com/kontz6/lowgo/refs/heads/main/foxs/fs3.png" group-title="FOX SPORTS 🇲🇽", FOX SPORTS PREMIUM 🇲🇽
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1218,33 +1218,33 @@ ESPN 🇨🇴
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0f85a4e1fc5937a827313597d04f8e27:cc1d8219be0130da85e4c4ce73a75abb
-#EXTINF:-1 ch-number="102" tvg-id="ESPN.co" tvg-logo="https://mimipipi22.github.io/logo/png/espn.png" group-title="ESPN 🇨🇴" ch-number="22" type="channel",ESPN 🇨🇴
+#EXTINF:-1 ch-number="102" tvg-id="ESPN.co" tvg-logo="https://raw.githubusercontent.com/kontz6/lowgo/refs/heads/main/espn/espn.png" group-title="ESPN 🇨🇴" ch-number="22" type="channel",ESPN 🇨🇴
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(ESPN_HD)/manifest.mpd?|referer=https://covoslivechannels2dash.clarovideo.com/
 
 +++
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8d7cb8fbc81cf3eddf8ebb5db5e11282:b7a98812ab8d8974649a6ec420c013e1
-#EXTINF:-1 ch-number="102" tvg-id="ESPN 2 HD.co" tvg-logo="https://mimipipi22.github.io/logo/png/espn2.png" group-title="ESPN 🇨🇴",ESPN 2 🇨🇴
+#EXTINF:-1 ch-number="102" tvg-id="ESPN 2 HD.co" tvg-logo="https://raw.githubusercontent.com/kontz6/lowgo/refs/heads/main/espn/espn2.png" group-title="ESPN 🇨🇴",ESPN 2 🇨🇴
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(ESPN_2_HD)/manifest.mpd?|referer=https://covoslivechannels2dash.clarovideo.com/
 
 +++
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=eb04e4ec7049c0712e09c57aea9c1cb7:404636ec78dfaf363333805c9a2c3f66
-#EXTINF:-1 ch-number="103" tvg-id="ESPN 3.co" tvg-logo="https://mimipipi22.github.io/logo/png/espn3.png" group-title="ESPN 🇨🇴",ESPN 3 🇨🇴
+#EXTINF:-1 ch-number="103" tvg-id="ESPN 3.co" tvg-logo="https://raw.githubusercontent.com/kontz6/lowgo/refs/heads/main/espn/espn3.png" group-title="ESPN 🇨🇴",ESPN 3 🇨🇴
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(ESPN_3_HD)/manifest.mpd?|referer=https://covoslivechannels2dash.clarovideo.com/
 
 +++
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1edee1ef683e9518a172af824b07642a:39371baca096e3c1c896e55bab88b564
-#EXTINF:-1 ch-number="104" tvg-id="ESPN 4.co" tvg-logo="https://mimipipi22.github.io/logo/png/espn4.png" group-title="ESPN 🇨🇴",ESPN 4 🇨🇴
+#EXTINF:-1 ch-number="104" tvg-id="ESPN 4.co" tvg-logo="https://raw.githubusercontent.com/kontz6/lowgo/refs/heads/main/espn/espn4.png" group-title="ESPN 🇨🇴",ESPN 4 🇨🇴
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(ESPN_PLUS_HD)/manifest.mpd?|referer=https://covoslivechannels2dash.clarovideo.com/
 
 +++
 
-#EXTINF:-1 tvg-id="ESPN 5.co" tvg-logo="https://mimipipi22.github.io/logo/png/espn5.png" group-title="ESPN 🇨🇴",ESPN 5 🇨🇴
+#EXTINF:-1 tvg-id="ESPN 5.co" tvg-logo="https://raw.githubusercontent.com/kontz6/lowgo/refs/heads/main/espn/espn5.png" group-title="ESPN 🇨🇴",ESPN 5 🇨🇴
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1256,7 +1256,7 @@ https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(
 
 +++
 
-#EXTINF:-1 tvg-id="ESPN 6.co" tvg-logo="https://mimipipi22.github.io/logo/png/espn6.png" group-title="ESPN 🇨🇴",ESPN 6 🇨🇴
+#EXTINF:-1 tvg-id="ESPN 6.co" tvg-logo="https://raw.githubusercontent.com/kontz6/lowgo/refs/heads/main/espn/espn6.png" group-title="ESPN 🇨🇴",ESPN 6 🇨🇴
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1268,7 +1268,7 @@ https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(
 
 +++
 
-#EXTINF:-1 tvg-id="ESPN 7 HD.co" tvg-logo="https://mimipipi22.github.io/logo/png/espn7.png" group-title="ESPN 🇨🇴",ESPN 7 🇨🇴
+#EXTINF:-1 tvg-id="ESPN 7 HD.co" tvg-logo="https://raw.githubusercontent.com/kontz6/lowgo/refs/heads/main/espn/espn7.png" group-title="ESPN 🇨🇴",ESPN 7 🇨🇴
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
